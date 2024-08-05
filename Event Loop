@@ -1,0 +1,8 @@
+- Memory heap: Elements assigned in the memory
+- Call Stack (Pila): Stack the instructions in an organized manner, LIFO
+Last in, First out, push  pop
+- Task Queue
+- MicroTask Queue: Promises
+- Web APIs: DOM XMLHttpRequest
+- Event loop: Onload, OnClick
+
