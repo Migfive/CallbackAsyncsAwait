@@ -1,0 +1,23 @@
+{
+  "name": "curse",
+  "version": "1.0.0",
+  "description": "Este es un proyecto de Callback especializado en usar Promesas y llamados a la función.",
+  "main": "src/callback/Callback.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Migfive/CallbackAsyncsAwait.git"
+  },
+  "keywords": [
+    "javascript",
+    "callback"
+  ],
+  "author": "miguel santa santamiguelangel62@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Migfive/CallbackAsyncsAwait/issues"
+  },
+  "homepage": "https://github.com/Migfive/CallbackAsyncsAwait#readme"
+}
