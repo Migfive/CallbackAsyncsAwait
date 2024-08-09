@@ -17,10 +17,10 @@ setTimeout(function (){
     console.log("Hola javascript");
 },2000)
 
-function gretting(name){
+function greeting(name){
     console.log(`Greeting ${name}`);
 }
-setTimeout(gretting,2000, 'Miguel ')
+setTimeout(greeting,2000, 'Miguel ')
 
 function sleep(ms=2000){
     return new Promise(resolve => setTimeout(resolve, ms));
